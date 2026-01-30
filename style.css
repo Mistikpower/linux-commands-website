@@ -13,3 +13,8 @@ h1 {
 li {
   color: darkblue;
 }
+.container {
+  border: 2px solid black;
+  padding: 15px;
+}
+
