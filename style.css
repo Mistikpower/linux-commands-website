@@ -31,3 +31,7 @@ footer {
 .container {
   border-radius: 10px;
 }
+
+h1 {
+  color: green;
+}
